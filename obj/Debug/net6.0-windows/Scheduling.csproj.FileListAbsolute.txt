@@ -1,0 +1,80 @@
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.exe
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.deps.json
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.runtimeconfig.json
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.dll
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.pdb
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfo.cs
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.dll
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\refint\Scheduling.dll
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.pdb
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.genruntimeconfig.cache
+D:\OneDrive\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\ref\Scheduling.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.exe
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.deps.json
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.runtimeconfig.json
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.AssemblyReference.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfoInputs.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfo.cs
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\refint\Scheduling.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.genruntimeconfig.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Assignment 2\Scheduling\obj\Debug\net6.0-windows\ref\Scheduling.dll
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.exe
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.deps.json
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.runtimeconfig.json
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.dll
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\bin\Debug\net6.0-windows\Scheduling.pdb
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.OutputConsole.resources
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.GenerateResource.cache
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfoInputs.cache
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfo.cs
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.CoreCompileInputs.cache
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.dll
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\refint\Scheduling.dll
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.pdb
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\Scheduling.genruntimeconfig.cache
+D:\Work\Teaching\OS\Assignments\Assignment 2\Scheduling\obj\Debug\net6.0-windows\ref\Scheduling.dll
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.exe
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.deps.json
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.runtimeconfig.json
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.AssemblyReference.cache
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.OutputConsole.resources
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.GenerateResource.cache
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfoInputs.cache
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfo.cs
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\refint\Scheduling.dll
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.genruntimeconfig.cache
+C:\Users\Shake\Downloads\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\ref\Scheduling.dll
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.exe
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.deps.json
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.runtimeconfig.json
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\bin\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.AssemblyReference.cache
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.OutputConsole.resources
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.GenerateResource.cache
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfoInputs.cache
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.AssemblyInfo.cs
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.dll
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\refint\Scheduling.dll
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.pdb
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\Scheduling.genruntimeconfig.cache
+C:\Users\Shake\OneDrive\מסמכים\קובץ מצורף 2 - הנחיות מרצה להגשת עבודות 1826233\Scheduling\obj\Debug\net6.0-windows\ref\Scheduling.dll
